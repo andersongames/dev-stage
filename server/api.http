@@ -1,0 +1,28 @@
+POST http://localhost:3333/subscriptions
+Content-Type: application/json
+
+{
+  "name": "Bobson Silva 7",
+  "email": "bobson7@mail.com",
+  "referrer": "7f7efcb6-824d-41cf-9753-d68ff400d97f"
+}
+
+###
+
+GET http://localhost:3333/invites/58f1cc75-7da7-4a6c-942d-4f5c16abda47
+
+###
+
+GET http://localhost:3333/subscribers/58f1cc75-7da7-4a6c-942d-4f5c16abda47/ranking/clicks
+
+###
+
+GET http://localhost:3333/subscribers/58f1cc75-7da7-4a6c-942d-4f5c16abda47/ranking/count
+
+###
+
+GET http://localhost:3333/subscribers/58f1cc75-7da7-4a6c-942d-4f5c16abda47/ranking/position
+
+###
+
+GET http://localhost:3333/ranking
