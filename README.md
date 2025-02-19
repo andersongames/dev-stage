@@ -1,5 +1,5 @@
 # Dev-stage
-Dev-stage is a referral system, developed in Node.Js on RocketSeat's NLW Connect (2025)
+Dev-stage is a referral system, developed in Node.js on RocketSeat's NLW Connect (2025)
 
 Developed during a Rocketseat event.
 
